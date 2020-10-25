@@ -6,3 +6,5 @@
     *쿠팡 파트너스 상품 소개
     *개인 판매 상품 소개
     *개인 유투브 소개
+
+![주방](https://images.pexels.com/photos/210687/pexels-photo-210687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
